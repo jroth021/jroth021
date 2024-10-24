@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jroth021
+- 👋 Hi, I’m Josh
 - 👀 I’m interested in physics, especially cosmology
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: jroth021@ucr.edu
+- 📫 How to reach me: jr9365@princeton.edu
 
 <!---
 jroth021/jroth021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
